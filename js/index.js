@@ -63,4 +63,4 @@ document.addEventListener("DOMContentLoaded", () => {
     // Initially load the first set of monsters
     loadMonsters(currentPage);
   });
-np  
+  
